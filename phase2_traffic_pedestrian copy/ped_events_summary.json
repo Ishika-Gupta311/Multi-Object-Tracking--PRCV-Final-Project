@@ -1,0 +1,23 @@
+{
+  "total_frames": 3297,
+  "duration_sec": 109.9,
+  "unique_pedestrians": 257,
+  "zone_summary": {
+    "entries": {
+      "left": 176,
+      "top": 161,
+      "bottom": 1,
+      "right": 1
+    },
+    "exits": {
+      "left": 85,
+      "top": 109
+    },
+    "net_occupancy": {
+      "left": 91,
+      "right": 1,
+      "top": 52,
+      "bottom": 1
+    }
+  }
+}
