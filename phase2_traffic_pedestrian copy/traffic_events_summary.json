@@ -1,0 +1,74 @@
+{
+  "vehicle_counts": {
+    "northbound": 101,
+    "southbound": 3,
+    "total": 104
+  },
+  "video_duration_sec": 71.0,
+  "flow_density": [
+    {
+      "window_start_frame": 0,
+      "window_end_frame": 300,
+      "window_start_sec": 0.0,
+      "window_end_sec": 10.0,
+      "count": 0,
+      "flow_per_min": 0.0
+    },
+    {
+      "window_start_frame": 300,
+      "window_end_frame": 600,
+      "window_start_sec": 10.0,
+      "window_end_sec": 20.0,
+      "count": 11,
+      "flow_per_min": 66.0
+    },
+    {
+      "window_start_frame": 600,
+      "window_end_frame": 900,
+      "window_start_sec": 20.0,
+      "window_end_sec": 30.0,
+      "count": 24,
+      "flow_per_min": 144.0
+    },
+    {
+      "window_start_frame": 900,
+      "window_end_frame": 1200,
+      "window_start_sec": 30.0,
+      "window_end_sec": 40.0,
+      "count": 18,
+      "flow_per_min": 108.0
+    },
+    {
+      "window_start_frame": 1200,
+      "window_end_frame": 1500,
+      "window_start_sec": 40.0,
+      "window_end_sec": 50.0,
+      "count": 18,
+      "flow_per_min": 108.0
+    },
+    {
+      "window_start_frame": 1500,
+      "window_end_frame": 1800,
+      "window_start_sec": 50.0,
+      "window_end_sec": 60.0,
+      "count": 14,
+      "flow_per_min": 84.0
+    },
+    {
+      "window_start_frame": 1800,
+      "window_end_frame": 2100,
+      "window_start_sec": 60.0,
+      "window_end_sec": 70.0,
+      "count": 15,
+      "flow_per_min": 90.0
+    },
+    {
+      "window_start_frame": 2100,
+      "window_end_frame": 2400,
+      "window_start_sec": 70.0,
+      "window_end_sec": 80.0,
+      "count": 4,
+      "flow_per_min": 24.0
+    }
+  ]
+}
